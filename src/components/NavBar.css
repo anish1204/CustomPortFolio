@@ -1,0 +1,18 @@
+.header{
+    /* background-color: black;
+    text-align: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif; */
+    /* margin-top:20px ; */
+    padding: 20px;
+    /* background-image: linear-gradient(to left , rgb(116, 48, 184) , rgb(19, 28, 90));*/
+     /* background-image: linear-gradient(to left , rgb(171, 82, 249) , rgb(41, 127, 23));  */
+     background-color: rgb(61, 9, 193);
+    text-align: center;
+    color: rgb(245, 245, 245);
+    border-color: black;
+    
+    font-size: xx-large;
+    font-family: fantasy;
+
+}
