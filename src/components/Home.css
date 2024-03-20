@@ -1,0 +1,17 @@
+body{
+    
+    justify-content: space-between;
+    background-image: url('../images/banner-1.png');
+    background-color: #1a2221;
+}
+
+.main-body{
+    display: flex;
+    flex-direction: row;
+}
+.Navbar{
+    width: 12%;
+}
+.FrontPage{
+    width: 89%;
+}
